@@ -21,10 +21,7 @@
 *.env
 .env*
 
-# ASP.NET Core config files
-*appsettings*.json
 
-.claude/
 
 # Mono auto generated files
 mono_crash.*
